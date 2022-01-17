@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/palomacanton">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=palomacanton&theme=dracula&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin?username=palomacanton&repo=github-readme-stats&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomacanton&theme=dracula"/>
 </div>
 </div>
   <div style="display: inline_block"><br>
