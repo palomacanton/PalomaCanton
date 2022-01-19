@@ -1,5 +1,5 @@
-## Ola, eu sou a Paloma Canton!
-⭐Sou desenvolvedora de sistemas e estou à procura por uma oportunidade no mercado de trabalho!
+## Hello, I'm Paloma Canton!
+⭐I'm a systems developer and I'm looking for an opportunity in the job market!
 <div align="left">
   <a href="https://github.com/palomacanton">
   <img height="180" width="370" src="https://github-readme-stats.vercel.app/api?username=palomacanton&theme=dracula&show_icons=true"/>
