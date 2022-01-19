@@ -2,7 +2,7 @@
 ⭐Sou desenvolvedora de sistemas e estou à procura por uma oportunidade no mercado de trabalho!
 <div align="left">
   <a href="https://github.com/palomacanton">
-  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=palomacanton&theme=dracula&show_icons=true"/>
+  <img height="180" width="370" src="https://github-readme-stats.vercel.app/api?username=palomacanton&theme=dracula&show_icons=true"/>
   <img height="180" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomacanton&layout=compact&langs_count=1&theme=dracula"/>
 </div>
 </div>
