@@ -17,8 +17,6 @@
   <img align="center" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
   <img align="center" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
   <img align="center" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
-    
-  <img align="right" height="170" width="170" src="https://i.picasion.com/pic91/8f6fb8d8ba7caf05b7050b071285c146.gif">
 </div>
   
   ##
