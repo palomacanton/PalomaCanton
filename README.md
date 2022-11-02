@@ -3,7 +3,7 @@
 <div align="left">
   <a href="https://github.com/palomacanton">
   <img height="180" width="370" src="https://github-readme-stats.vercel.app/api?username=palomacanton&theme=dracula&show_icons=true"/>
-  <img height="180" width="440" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomacanton&layout=compact&langs_count=2&theme=dracula"/>
+  <img height="180" width="440" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomacanton&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 </div>
   <div style="display: inline_block"><br>
