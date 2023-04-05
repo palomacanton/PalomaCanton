@@ -1,5 +1,5 @@
 ## Hello, I'm Paloma Canton!
-⭐I'm a systems developer and I'm looking for an opportunity in the job market!
+⭐I'm a software engineering student, and these are my projects!
 <div align="left">
   <a href="https://github.com/palomacanton">
   <img height="180" width="405" src="https://github-readme-stats.vercel.app/api?username=palomacanton&theme=dracula&show_icons=true"/>
