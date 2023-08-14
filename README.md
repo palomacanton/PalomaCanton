@@ -2,8 +2,8 @@
 ⭐I'm a software engineering student, and these are my projects!
 <div align="left">
   <a href="https://github.com/palomacanton">
-  <img height="180" width="405" src="https://github-readme-stats.vercel.app/api?username=palomacanton&theme=dracula&show_icons=true"/>
-  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomacanton&layout=compact&langs&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=palomacanton&theme=dracula&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomacanton&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 </div>
   <div style="display: inline_block"><br>
